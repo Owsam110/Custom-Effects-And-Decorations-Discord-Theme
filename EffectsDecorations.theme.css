@@ -25,15 +25,15 @@
 }
 
 /* User-specific overrides (copy/paste template and replace <unique-username>) */
-[aria-label*="<unique-username>"], [id="popout_28"] {
+[aria-label*="<owsam511>"], [id="popout_28"] {
 	/**
 	 * The URL for the profile effect override this user should have
 	 * Defult is set to Dark Omens
 	 */
-	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png");
+	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/all-nighter/intro.png");
 	/**
 	 * The URL for the avatar decoration override this user should have
 	 * Defult is set to Cat Ears
 	 */
-	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_c3cffc19e9784f7d0b005eecdf1b566e.png?size=240&passthrough=true");
+	--avatar-decoration-image: url("https://cdn.discordapp.com/avatar-decoration-presets/a_a065206df7b011a5510e4e5bca7d49be.png?size=240&passthrough=true");
 }
